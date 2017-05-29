@@ -1,0 +1,10 @@
+c:\users\killer\documents\visual studio 2010\Projects\MyAspWeb\MyAspWeb\bin\MyAspWeb.dll
+c:\users\killer\documents\visual studio 2010\Projects\MyAspWeb\MyAspWeb\bin\MyAspWeb.pdb
+c:\users\killer\documents\visual studio 2010\Projects\MyAspWeb\MyAspWeb\obj\Debug\MyAspWeb.dll
+c:\users\killer\documents\visual studio 2010\Projects\MyAspWeb\MyAspWeb\obj\Debug\MyAspWeb.pdb
+C:\Users\killer\Documents\Visual Studio 2010\Projects\MyAspWeb\MyAspWeb\bin\MyAspWeb.dll.config
+C:\Users\killer\Documents\Visual Studio 2010\Projects\MyAspWeb\MyAspWeb\obj\Debug\MyAspWeb.csprojResolveAssemblyReference.cache
+C:\Users\killer\Documents\Visual Studio 2010\Projects\MyAspWeb\MyAspWeb\bin\MySql.Data.dll
+C:\Users\killer\Documents\Visual Studio 2010\Projects\MyAspWeb\MyAspWeb\bin\MySql.Data.xml
+C:\Users\killer\Documents\Visual Studio 2010\Projects\MyAspWeb\MyAspWeb\bin\Newtonsoft.Json.dll
+C:\Users\killer\Documents\Visual Studio 2010\Projects\MyAspWeb\MyAspWeb\bin\Newtonsoft.Json.xml
